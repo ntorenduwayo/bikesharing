@@ -2,7 +2,7 @@
 ## Overview of the statistical analysis:
 Last summer, Me and my friend Kate we visited New York City.  During the city tour, we mostly biked everywhere using CitiBike (i.e., a privately owned public bicycle sharing system in New York City). Hence, we wondered if the same idea could work in Des Moines, Iowa our hometown. However, we realized that the mechanics that make this business work in New York might be different in Des Moines. </br>
 Thus, before we embarked on the project, a prior understanding of how this business works in New York City was imperative.  As a result, decided to apply the power of Tableau to analyze and visualize the August 2018, CitiBike data to unveil any hidden features that could be a key to our project success in Des Moines.</br>
-Note: A tableau story can be seen here![link to dashboard](https://public.tableau.com/views/NYCCitiBikeStory_16489596983650/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Note: A tableau story can be seen here![link to dashboard]( https://public.tableau.com/views/NYCCitiBikeStory_16489596983650/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link )
 ## Results:
 We used a combination of different graphs to unveil trends and patterns within the data. </br>
 #### Image 1: Trips count
